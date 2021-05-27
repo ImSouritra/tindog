@@ -1,2 +1,1 @@
-# tindog
-this is a startup website
+TinDog Starting Files
